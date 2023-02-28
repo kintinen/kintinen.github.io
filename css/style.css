@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,500;1,500&family=Roboto:wght@100;300&display=swap');
+
+
+
+body {
+    display: flex;
+    background-color: #284b5b;
+
+}
+
+:root {
+    --colorTitulos: #2b1d2b;
+    --colorBotones: #777777;
+}
+
+
+.contenedor {
+    border: 1px solid #ccc;
+    margin: 0 auto;
+    width: 60%;
+    background: #fff;
+    padding: 10px;
+
+}
+
+.principal {
+    padding: 10px;
+    background-color: #0CB1BF;
+
+}
+
+.header {
+    display: flex;
+
+}
+
+
+
+.nombre {
+    margin-left: 100px;
+    width: 100%;
+
+}
+
+#foto {
+    padding: 20%;
+
+}
+
+section {
+    width: 94%;
+    border: 1px solid grey;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: aliceblue;
+}
+
+.datos {
+
+    margin-left: 20px;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.redes {
+    color: var(--colorTitulos);
+    padding: 20px;
+    margin: 20px auto;
+    text-align: center;
+
+}
+
+.redes-sociales {
+    display: flex;
+    justify-content: center;
+}
+
+.redes-sociales i {
+    font-size: 30px;
+    padding: 0 20px;
+}
+
+.copy{
+    margin: 20px auto;
+    color: black;
+    text-align: center;
+}
+
+
+
+
+.inicio{
+    margin-left: 20px;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
